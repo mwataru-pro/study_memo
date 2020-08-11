@@ -3,3 +3,5 @@
 ## Rails関連
 ・gem summernoteを使用した際の本番環境での画像保存について<br>
 https://qiita.com/m1130wata/items/3f6c51242b927962f1a5
+
+・アクセス制限でエラーメッセージを表示させる
