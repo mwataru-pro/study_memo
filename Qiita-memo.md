@@ -6,3 +6,6 @@ https://qiita.com/m1130wata/items/3f6c51242b927962f1a5
 
 ・アクセス制限でエラーメッセージを表示させる<br>
 https://qiita.com/m1130wata/items/336af08619188616520d
+
+・GitHubでリポジトリの公開非公開の設定の変更をする方法<br>
+https://qiita.com/m1130wata/items/07a84a61d64f0d843771
