@@ -39,3 +39,7 @@ while文とは異なり、forの後の（）内に、変数の初期化、条件
 for(int i = 1; i <= 5; i++) {<br>
   System.out.println(i);<br>
 }
+
+## インスタンスについて
+javaでインスタンスを使う方法【初心者向け】<br>
+https://techacademy.jp/magazine/17543
