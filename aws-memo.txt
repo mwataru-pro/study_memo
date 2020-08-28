@@ -7,3 +7,6 @@
 ●SSH接続のためのソフトウェアインストールの必要性
 ※Qiitaにまとめました。
 https://qiita.com/m1130wata/items/e12c46ee13a32849d080
+
+▼参考書籍
+『Amazon Web Services AWSのしくみと技術がこれ１冊でしっかりわかる教科書』 (発行：技術評論社/著：小笠原穂高)
