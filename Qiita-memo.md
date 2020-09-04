@@ -9,3 +9,6 @@ https://qiita.com/m1130wata/items/336af08619188616520d
 
 ・GitHubでリポジトリの公開非公開の設定の変更をする方法<br>
 https://qiita.com/m1130wata/items/07a84a61d64f0d843771
+
+・サーバー構成について。サーバー構成を聞かれたら。
+https://qiita.com/m1130wata/items/48ade0fa2c1912a43ec9
