@@ -55,3 +55,11 @@ n = gets.to_i
 n.times do
   puts "paiza"
 end
+
+# 複数行にわたる入力
+n = gets.to_i
+
+for i in 1..n
+  a_n = gets
+  puts a_n
+end
