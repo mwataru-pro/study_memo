@@ -19,3 +19,13 @@ n_5 = gets.to_i
 n = [n_1,n_2,n_3,n_4,n_5]
 
 puts n.min
+
+# 文字の一致
+a = gets
+b = gets
+
+if a == b
+puts "OK"
+else
+puts "NG"
+end
