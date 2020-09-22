@@ -29,3 +29,23 @@ puts "OK"
 else
 puts "NG"
 end
+
+# Fizz_Buzz問題
+N = gets.to_i
+
+(1..N).each do |n|
+  if n % 15 == 0
+    puts "Fizz Buzz"
+  elsif n % 3 == 0
+    puts "Fizz"
+  elsif n % 5 == 0
+    puts "Buzz"
+  else
+    puts n
+  end
+end
+
+# 単純な入出力
+s = gets
+puts s
+
