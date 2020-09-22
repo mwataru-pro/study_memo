@@ -49,3 +49,9 @@ end
 s = gets
 puts s
 
+# 複数行にわたる出力
+n = gets.to_i
+
+n.times do
+  puts "paiza"
+end
