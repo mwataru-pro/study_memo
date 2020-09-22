@@ -1,4 +1,5 @@
 # 【paiza練習問題】
+# スキルチェック見本問題セット
 
 # 掛け算
 a = gets.to_i
@@ -43,23 +44,4 @@ N = gets.to_i
   else
     puts n
   end
-end
-
-# 単純な入出力
-s = gets
-puts s
-
-# 複数行にわたる出力
-n = gets.to_i
-
-n.times do
-  puts "paiza"
-end
-
-# 複数行にわたる入力
-n = gets.to_i
-
-for i in 1..n
-  a_n = gets
-  puts a_n
 end
