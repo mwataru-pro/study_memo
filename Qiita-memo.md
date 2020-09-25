@@ -12,3 +12,6 @@ https://qiita.com/m1130wata/items/07a84a61d64f0d843771
 
 ・サーバー構成について。サーバー構成を聞かれたら。<br>
 https://qiita.com/m1130wata/items/48ade0fa2c1912a43ec9
+
+・Gitを使っていて起きる様々な『取り消したい！！』
+https://qiita.com/m1130wata/items/d45d463147e5eb5e8271
