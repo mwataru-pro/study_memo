@@ -21,3 +21,8 @@ else
   puts S[0..1]
   puts S[3..4]
 end
+
+# 別解答
+# S = gets.chomp.split(':')
+# puts S[0].to_i
+# puts S[1].to_i
