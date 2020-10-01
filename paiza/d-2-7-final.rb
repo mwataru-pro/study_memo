@@ -9,10 +9,12 @@
 N = gets.to_i
 N.times do
 time,hour,min = gets.split(" ")
+# 00:00を：を除いて二つの変数に分けて格納
 start_hour,start_min = time.split(":")
 
 finish_hour = start_hour.to_i + hour.to_i
 finish_min = start_min.to_i + min.to_i
 
+# %の計算では余りを求める。a%b：a割るbの余り。余りが出ない計算はそのまま出力される。
 puts "#{'%02d' % ((finish_hour + finish_min / 60)  % 24) }:#{'%02d' % (finish_min % 60) }"
 end
