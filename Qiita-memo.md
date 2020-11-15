@@ -15,3 +15,6 @@ https://qiita.com/m1130wata/items/48ade0fa2c1912a43ec9
 
 ・Gitを使っていて起きる様々な『取り消したい！！』<br>
 https://qiita.com/m1130wata/items/d45d463147e5eb5e8271
+
+・oh-my-zshをインストールしたあとgit:(master)×と表示され進めない時<br>
+https://qiita.com/m1130wata/items/e16e1aefac30fb9eb48c
